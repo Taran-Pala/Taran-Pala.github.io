@@ -1,0 +1,15 @@
+title: My Portfolio
+description: My personal site built with Jekyll
+url: "https://Taran-Pala.github.io"
+baseurl: "" # leave empty for user.github.io sites
+
+# Tell GitHub Pages to use Jekyll, but not a prebuilt theme
+theme: none
+
+# Markdown settings
+markdown: kramdown
+
+# Optional plugins (enabled by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
