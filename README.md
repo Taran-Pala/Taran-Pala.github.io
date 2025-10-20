@@ -57,7 +57,7 @@ Led sponsorship coordination and business outreach for the Queen’s Aerospace T
 ## <a id="contact"></a>Contact
 
 Let’s connect!  
-📧 **Email:** [taran@example.com](mailto:taran@example.com)  
+📧 **Email:** [taran110506@gmail.com](mailto:Taran110506@gmail.com)  
 🐙 **GitHub:** [github.com/Taran-Pala](https://github.com/Taran-Pala)  
 💼 **LinkedIn:** [linkedin.com/in/taran-pala](https://linkedin.com/in/taran-pala)
 
