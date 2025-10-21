@@ -43,11 +43,11 @@ I build games, work with AI models, and explore hardware–software integration.
 
 ## <a id="projects"></a>Projects
 
-### 🎮 Interspecies Conquesters
-A chaotic open-world game built in Unity combining fast-paced combat and unpredictable AI behavior.
+### 🎮 Astroids
+A chaotic open-world game built in Gamemaker combining fast-paced combat and unpredictable entity behavior.
 
-### 🤖 Neural Control Interface
-Python-based neural network that learns keyboard inputs to control applications autonomously.
+### 🤖 Agentic Systems
+Python-based Gen AI chat that learns user requests and autonomously uses tools.
 
 ### 🚀 Aerospace Sponsorship Platform
 Led sponsorship coordination and business outreach for the Queen’s Aerospace Team.
